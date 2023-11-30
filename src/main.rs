@@ -1,5 +1,3 @@
-use std::intrinsics::mir::Move;
-
 use yew::prelude::*;
 
 #[function_component]
